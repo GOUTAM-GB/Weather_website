@@ -4,3 +4,5 @@ A simplest Weather website using HTML, CSS, and JS
 Uses only HTML,CSS, and js
 
 Use your own google API key insted of the key variable
+
+## To see the Project
